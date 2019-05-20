@@ -4,7 +4,7 @@
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-blk-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-blk-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/blk-design-system-pro-react/blk-design-system-pro-react.gif)
+![Product Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/blk-design-system-pro-react/blk-design-system-pro-react.jpg)
 
 Start your development with **[Blk• Design System PRO React](https://demos.creative-tim.com/blk-design-system-pro-react/#/index?ref=blkdspr-github-readme)**. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
