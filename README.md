@@ -1,7 +1,7 @@
 # [Blk• Design System PRO React](https://demos.creative-tim.com/blk-design-system-pro-react?ref=blkdspr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fblk-design-system-pro-react%2F%23%2Fpresentation&text=BLK%E2%80%A2%20Design%20System%20PRO%20React%20-%20Premium%20Bootstrap%20UI%20Kit&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Fblk-design-system-pro-react%2F&via=creativetim&hashtags=blkdesignsystempro%2Cblkdesignsystemproreact%2Cdesignsystem%2Creactdesignsystem%2Creact%2Cbootstrap4%2Cbootstrap4%2Creactstrap%2Creactrouter%2Creact-router%2Creactrouterdom%2Creact-router-dom%2Clogin%2Cform%2Ctable%2Ctables%2Ccalendar%2Ccard%2Ccards%2Cnavbar%2Cmodal%2Cicons%2Cicons%2Cmap%2Cchat%2Ccarousel%2Cmenu%2Cdatepicker%2Cgallery%2Cslider%2Cdate%2Csidebar%2Csocial%2Cdropdown%2Csearch%2Ctab%2Cnav%2Cfooter%2Cdatepicker%2Creactdatetime%2Creactdate-time%2Cforms%2Ctabs%2Ctime%2Cbutton%2Cselect%2Creactselect%2Creact-select%2Cinput%2Ctimeline%2Ccart%2Ccar%2Cfullcalendar%2Caboutus%2Cinvoice%2Caccount%2Cchat%2Clogin%2Cblog%2Cprofile%2Cportfolio%2Clandingpage%2Cecommerce%2Cshop%2Clanding%2Cregister%2Capp%2Ccontact%2Conepage%2Csignup%2Csignup%2Cstore)
 
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-blk-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-blk-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+ ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-blk-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-blk-design-system-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-blk-design-system-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 
 ![Product Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/blk-design-system-pro-react/blk-design-system-pro-react.jpg)
@@ -149,76 +149,76 @@ Blk• Design System PRO React
     │       └── blk-design-system-pro-react.scss
     ├── components
     │   ├── CustomUpload
-    │   │   └── ImageUpload.jsx
+    │   │   └── ImageUpload.js
     │   ├── Footers
-    │   │   └── DemoFooter.jsx
+    │   │   └── DemoFooter.js
     │   ├── Headers
-    │   │   ├── IndexHeader.jsx
-    │   │   └── PresentationHeader.jsx
+    │   │   ├── IndexHeader.js
+    │   │   └── PresentationHeader.js
     │   └── Navbars
-    │       ├── ColorNavbar.jsx
-    │       └── ScrollNavbar.jsx
+    │       ├── ColorNavbar.js
+    │       └── ScrollNavbar.js
     └── views
-        ├── Index.jsx
+        ├── Index.js
         ├── IndexSections
-        │   ├── Basic.jsx
-        │   ├── Cards.jsx
-        │   ├── ContentAreas.jsx
-        │   ├── Footers.jsx
-        │   ├── JavaScript.jsx
-        │   ├── Navbars.jsx
-        │   ├── Notifications.jsx
-        │   ├── NucleoIcons.jsx
-        │   ├── Pagination.jsx
-        │   ├── Pills.jsx
-        │   ├── PlainCards.jsx
-        │   ├── PreFooter.jsx
-        │   ├── Tabs.jsx
-        │   └── Typography.jsx
-        ├── Presentation.jsx
+        │   ├── Basic.js
+        │   ├── Cards.js
+        │   ├── ContentAreas.js
+        │   ├── Footers.js
+        │   ├── JavaScript.js
+        │   ├── Navbars.js
+        │   ├── Notifications.js
+        │   ├── NucleoIcons.js
+        │   ├── Pagination.js
+        │   ├── Pills.js
+        │   ├── PlainCards.js
+        │   ├── PreFooter.js
+        │   ├── Tabs.js
+        │   └── Typography.js
+        ├── Presentation.js
         ├── PresentationSections
-        │   ├── BasicComponents.jsx
-        │   ├── Cards.jsx
-        │   ├── Content.jsx
-        │   ├── Examples.jsx
-        │   ├── Features.jsx
-        │   ├── FreeDemo.jsx
-        │   ├── Icons.jsx
-        │   ├── Info.jsx
-        │   ├── Pricing.jsx
-        │   ├── Sections.jsx
-        │   └── Testimonials.jsx
-        ├── Sections.jsx
+        │   ├── BasicComponents.js
+        │   ├── Cards.js
+        │   ├── Content.js
+        │   ├── Examples.js
+        │   ├── Features.js
+        │   ├── FreeDemo.js
+        │   ├── Icons.js
+        │   ├── Info.js
+        │   ├── Pricing.js
+        │   ├── Sections.js
+        │   └── Testimonials.js
+        ├── Sections.js
         ├── SectionsSections
-        │   ├── Accordion.jsx
-        │   ├── Blogs.jsx
-        │   ├── ContactUs.jsx
-        │   ├── Features.jsx
-        │   ├── Headers.jsx
-        │   ├── Pricing.jsx
-        │   ├── Projects.jsx
-        │   ├── Tables.jsx
-        │   ├── Teams.jsx
-        │   └── Testimonials.jsx
+        │   ├── Accordion.js
+        │   ├── Blogs.js
+        │   ├── ContactUs.js
+        │   ├── Features.js
+        │   ├── Headers.js
+        │   ├── Pricing.js
+        │   ├── Projects.js
+        │   ├── Tables.js
+        │   ├── Teams.js
+        │   └── Testimonials.js
         └── examples
-            ├── AboutUs.jsx
-            ├── AccountSettings.jsx
-            ├── BlogPost.jsx
-            ├── BlogPosts.jsx
-            ├── ChatPage.jsx
-            ├── CheckoutPage.jsx
-            ├── ContactUs.jsx
-            ├── Ecommerce.jsx
-            ├── Error404.jsx
-            ├── Error500.jsx
-            ├── InvoicePage.jsx
-            ├── LandingPage.jsx
-            ├── LoginPage.jsx
-            ├── Pricing.jsx
-            ├── ProductPage.jsx
-            ├── ProfilePage.jsx
-            ├── RegisterPage.jsx
-            └── ResetPage.jsx
+            ├── AboutUs.js
+            ├── AccountSettings.js
+            ├── BlogPost.js
+            ├── BlogPosts.js
+            ├── ChatPage.js
+            ├── CheckoutPage.js
+            ├── ContactUs.js
+            ├── Ecommerce.js
+            ├── Error404.js
+            ├── Error500.js
+            ├── InvoicePage.js
+            ├── LandingPage.js
+            ├── LoginPage.js
+            ├── Pricing.js
+            ├── ProductPage.js
+            ├── ProfilePage.js
+            ├── RegisterPage.js
+            └── ResetPage.js
 ```
 
 
@@ -253,7 +253,7 @@ We use GitHub Issues as the official bug tracker for the Blk• Design System PR
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com/?ref=blkdspr-github-readme)
+- Copyright 2020 Creative Tim (https://www.creative-tim.com/?ref=blkdspr-github-readme)
 
 - Licensed under MIT (https://github.com/creativetimofficial/ct-blk-design-system-pro-react/blob/master/LICENSE.md?ref=creativetim)
 
