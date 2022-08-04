@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.2.1] 2021-08-04
+
+- Update the dependencies
+- Migration to React 18
+- Migration to sass from node-sass
+
 ## [1.2.0] 2020-12-08
 ### Enhancements
 - **Full Hooks Support**: Change `class` components usage with `functional` ones in order to support Hooks
